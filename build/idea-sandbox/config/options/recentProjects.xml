@@ -1,0 +1,39 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="D:/GitHub/share/share-dubbo">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1hqanlAHfWhO1JHclz0TtysNRfn">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-201.8538.31" />
+              <option name="buildTimestamp" value="1594112233617" />
+              <frame x="-1385" y="417" width="1400" height="1000" extendedState="6" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1600831947241" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/demo">
+          <value>
+            <RecentProjectMetaInfo opened="true" projectWorkspaceId="1htZHsNCWbkYjARRlJaLQHfrhxs">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-201.8538.31" />
+              <option name="buildTimestamp" value="1594112241811" />
+              <frame x="-1374" y="427" width="1382" height="754" extendedState="6" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1600844914664" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="$USER_HOME$/IdeaProjects" />
+    <option name="recentPaths">
+      <list>
+        <option value="$USER_HOME$/IdeaProjects/demo" />
+        <option value="D:/GitHub/share/share-dubbo" />
+      </list>
+    </option>
+  </component>
+</application>

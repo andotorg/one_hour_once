@@ -1,0 +1,24 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <data>
+      <entry key="NewProject">
+        <ActionSummary times="1" last="1600832249305" />
+      </entry>
+      <entry key="ShowSettings">
+        <ActionSummary times="1" last="1600844933055" />
+      </entry>
+      <entry key="StartAction">
+        <ActionSummary times="13" last="1600844069967" />
+      </entry>
+      <entry key="WelcomeScreen.CreateNewProject">
+        <ActionSummary times="1" last="1600828923084" />
+      </entry>
+      <entry key="WelcomeScreen.OpenProject">
+        <ActionSummary times="1" last="1600828932609" />
+      </entry>
+      <entry key="com.intellij.openapi.wm.impl.ToolWindowHeader$HideAction">
+        <ActionSummary times="4" last="1600833846286" />
+      </entry>
+    </data>
+  </component>
+</application>

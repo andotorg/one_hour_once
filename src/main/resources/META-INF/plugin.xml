@@ -1,0 +1,25 @@
+<idea-plugin>
+    <id>org.andot.share.idea.plugin.one_hour_once</id>
+    <name>OneHourOnce</name>
+    <vendor email="yanfront@qq.com" url="http://andot.org">AndotStudio</vendor>
+
+    <description><![CDATA[
+        一个小时执行一次，为了就是提醒您，不要久坐，大家一起呵护颈椎.<br>
+        <em>为颈椎而生</em></em>
+    ]]></description>
+
+    <!-- please see https://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compatibility.html
+         on how to target different products -->
+    <depends>com.intellij.modules.platform</depends>
+
+    <extensions defaultExtensionNs="com.intellij">
+        <!-- Add your extensions here -->
+    </extensions>
+
+    <actions>
+        <!-- Add your actions here -->
+        <action class="org.andot.share.idea.plugin.StartAction" text="StartOnce" description="一时一次开始启动">
+            <add-to-group group-id="HelpMenu" anchor="first"></add-to-group>
+        </action>
+    </actions>
+</idea-plugin>

@@ -1,0 +1,33 @@
+<project version="4">
+  <component name="ExternalSystemProjectTracker">
+    <option name="projectSettingsTrackerStates">
+      <map>
+        <entry>
+          <key>
+            <Id>
+              <option name="externalProjectPath" value="share-dubbo" />
+              <option name="systemId" value="MAVEN" />
+            </Id>
+          </key>
+          <value>
+            <Project>
+              <option name="settingsTracker">
+                <State>
+                  <option name="dirty" value="false" />
+                  <option name="settingsFiles">
+                    <map>
+                      <entry key="$PROJECT_DIR$/pom.xml" value="2735288652" />
+                      <entry key="$PROJECT_DIR$/share-dubbo-api/pom.xml" value="2278144106" />
+                      <entry key="$PROJECT_DIR$/share-dubbo-consumer/pom.xml" value="599920717" />
+                      <entry key="$PROJECT_DIR$/share-dubbo-provider/pom.xml" value="3051272206" />
+                    </map>
+                  </option>
+                </State>
+              </option>
+            </Project>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

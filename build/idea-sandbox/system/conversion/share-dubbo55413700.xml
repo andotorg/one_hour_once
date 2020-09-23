@@ -1,0 +1,35 @@
+<conversion>
+  <applied-converters>
+    <converter id="kotlin-non-jvm-source-roots" />
+    <converter id="junit-to-android-junit-configurations" />
+    <converter id="android-sdk-library" />
+    <converter id="android-module-to-java-module" />
+    <converter id="android-proguard-options" />
+  </applied-converters>
+  <project-files>
+    <file path="D:\GitHub\share\share-dubbo\share-dubbo-api\share-dubbo-api.iml" timestamp="1600743063585" />
+    <file path="D:\GitHub\share\share-dubbo\.idea\libraries\Maven__org_springframework_spring_expression_4_3_16_RELEASE.xml" timestamp="1600742433538" />
+    <file path="D:\GitHub\share\share-dubbo\.idea\artifacts\share_dubbo_provider_jar.xml" timestamp="1600744961703" />
+    <file path="D:\GitHub\share\share-dubbo\.idea\uiDesigner.xml" timestamp="1600742754743" />
+    <file path="D:\GitHub\share\share-dubbo\share-dubbo-consumer\share-dubbo-consumer.iml" timestamp="1600745647844" />
+    <file path="D:\GitHub\share\share-dubbo\.idea\libraries\Maven__commons_logging_commons_logging_1_2.xml" timestamp="1600742433407" />
+    <file path="D:\GitHub\share\share-dubbo\.idea\misc.xml" timestamp="1600741488659" />
+    <file path="D:\GitHub\share\share-dubbo\.idea\libraries\Maven__org_springframework_spring_context_4_3_16_RELEASE.xml" timestamp="1600742433506" />
+    <file path="D:\GitHub\share\share-dubbo\.idea\libraries\Maven__org_yaml_snakeyaml_1_20.xml" timestamp="1600742433557" />
+    <file path="D:\GitHub\share\share-dubbo\.idea\libraries\Maven__com_alibaba_spring_spring_context_support_1_0_8.xml" timestamp="1600742433367" />
+    <file path="D:\GitHub\share\share-dubbo\.idea\modules.xml" timestamp="1600741456104" />
+    <file path="D:\GitHub\share\share-dubbo\.idea\share-dubbo.iml" timestamp="1600743063570" />
+    <file path="D:\GitHub\share\share-dubbo\.idea\libraries\Maven__org_springframework_spring_core_4_3_16_RELEASE.xml" timestamp="1600742433523" />
+    <file path="D:\GitHub\share\share-dubbo\.idea\libraries\Maven__com_alibaba_fastjson_1_2_70.xml" timestamp="1600742433350" />
+    <file path="D:\GitHub\share\share-dubbo\.idea\libraries\Maven__org_springframework_spring_aop_4_3_16_RELEASE.xml" timestamp="1600742433473" />
+    <file path="D:\GitHub\share\share-dubbo\.idea\libraries\Maven__io_netty_netty_all_4_1_25_Final.xml" timestamp="1600742433424" />
+    <file path="D:\GitHub\share\share-dubbo\.idea\compiler.xml" timestamp="1600745647859" />
+    <file path="D:\GitHub\share\share-dubbo\.idea\workspace.xml" timestamp="1600832273396" />
+    <file path="D:\GitHub\share\share-dubbo\share-dubbo-provider\share-dubbo-provider.iml" timestamp="1600743063600" />
+    <file path="D:\GitHub\share\share-dubbo\.idea\libraries\Maven__org_springframework_spring_beans_4_3_16_RELEASE.xml" timestamp="1600742433491" />
+    <file path="D:\GitHub\share\share-dubbo\.idea\libraries\Maven__org_apache_dubbo_dubbo_2_7_8.xml" timestamp="1600742433443" />
+    <file path="D:\GitHub\share\share-dubbo\.idea\jarRepositories.xml" timestamp="1600741317765" />
+    <file path="D:\GitHub\share\share-dubbo\.idea\libraries\Maven__com_google_code_gson_gson_2_8_5.xml" timestamp="1600742433388" />
+    <file path="D:\GitHub\share\share-dubbo\.idea\libraries\Maven__org_javassist_javassist_3_20_0_GA.xml" timestamp="1600742433459" />
+  </project-files>
+</conversion>
